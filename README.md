@@ -1,19 +1,35 @@
-# About Me - Besar Idrizi
+# Hi there 👋, I'm Besar Idrizi
 
-Hello there! 👋 I'm Besar Idrizi, a passionate software developer based in Tetovo North Macedonia. I am currently working as a software developer at South East European University, where I am involved in various exciting projects that contribute to the growth and advancement of technology in the education sector.
+I'm a passionate software developer from **Tetovo, North Macedonia**, currently working at **South East European University**. I specialize in building **robust applications, full parking systems, and innovative tech solutions** that solve real-world problems.
 
-## Personal Background
+## 🚀 About Me
 
-I have always been fascinated by the limitless possibilities that technology offers, and this passion led me to pursue a career in software development. Over the years, I have honed my skills in various programming languages and frameworks, allowing me to build robust and efficient applications that make a positive impact.
+I have always been fascinated by the limitless possibilities of technology, which led me to pursue a career in software development. Over the years, I have gained extensive experience in multiple programming languages and frameworks, allowing me to deliver **scalable, efficient, and high-quality software solutions**.
 
-## Projects and Achievements
+Some highlights of my work:
 
-Apart from my work at the university, I am also the proud founder of BSoft, a software development company aimed at providing innovative solutions to businesses and individuals. Through BSoft, I have had the privilege of collaborating with diverse clients and turning their ideas into reality.
+- **Founder of BSoft** – providing **custom software, mobile apps, desktop apps, web apps, and full parking systems** for businesses and individuals ([www.bsoft.mk](https://www.bsoft.mk))
+- **Partner with Piezo Company** – implementing innovative technology solutions and advanced systems
+- **Co-Founder at AMA Media** – delivering **digital media, web, and mobile solutions** for brands and businesses ([www.amamedia.mk](https://www.amamedia.mk))
+- Experienced in **designing and developing full-scale applications**, from ideation to deployment
+- Skilled in **integrating hardware and software solutions**, including parking sensors, RFID systems, and automation
 
+## 📂 Projects & Work
 
-## Contact
+Some of the projects and solutions I have worked on:
 
-If you'd like to collaborate on a project, discuss new ideas, or just say hello, feel free to reach out to me via email at [besar.idrizi@gmail.com](mailto:besar.idrizi@gmail.com). I'm always open to exciting opportunities and connecting with fellow developers and enthusiasts.
+- **Full parking management systems** for municipalities and private businesses
+- **Custom software solutions** tailored for education, media, and digital businesses
+- **Mobile apps** for Android and iOS, including integrations with hardware systems
+- **Desktop applications** for business automation, POS, and management systems
+- **Web applications** with responsive design and full backend/frontend integration
+- Collaborative projects turning ideas into real-world products
 
----
-*Note: Replace Tetovo, North Macedonia with the relevant information as per the actual details.*
+## 🌐 Websites
+
+- [BSoft](https://www.bsoft.mk) – software solutions & parking systems
+- [AMA Media](https://www.amamedia.mk) – digital media & web solutions
+
+## 📫 Contact Me
+
+If you'd like to collaborate, discuss ideas, or just say hello, feel free to reach out: [besar.idrizi@gmail.com](mailto:besar.idrizi@gmail.com)
